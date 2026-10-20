@@ -4,14 +4,14 @@
 <br/>
 
 <a href="https://github.com/immaiolo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=FFC21A&center=true&vCenter=true&width=720&lines=Olá,+eu+sou+o+Isaac!;Estudante+de+Desenvolvimento+de+Sistemas;Transformando+lógica+em+soluções;Construindo+o+futuro,+uma+linha+de+código+por+vez" alt="Frases animadas de apresentação" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=FFC21A&center=true&vCenter=true&width=720&lines=Ol%C3%A1%2C+eu+sou+o+Isaac%21;Estudante+de+Desenvolvimento+de+Sistemas;Transformando+l%C3%B3gica+em+solu%C3%A7%C3%B5es;Construindo+o+futuro%2C+uma+linha+de+c%C3%B3digo+por+vez" alt="Frases animadas de apresentação" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/immaiolo?tab=followers"><img src="https://img.shields.io/github/followers/immaiolo?label=Seguidores&style=for-the-badge&logo=github&logoColor=FFC21A&labelColor=0B1026&color=FFC21A" alt="Seguidores no GitHub" /></a>
 <a href="https://github.com/immaiolo?tab=repositories"><img src="https://img.shields.io/github/stars/immaiolo?affiliations=OWNER&label=Estrelas&style=for-the-badge&logo=github&logoColor=FFC21A&labelColor=0B1026&color=FFC21A" alt="Estrelas recebidas" /></a>
-<img src="https://komarev.com/ghpvc/?username=immaiolo&label=Visitas&style=for-the-badge&color=FFC21A&labelColor=0B1026" alt="Contador de visitas" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO.SEU_USUARIO&left_color=0B1026&right_color=FFC21A&left_text=Visitas" alt="Contador de visitas" />
 
 <br/><br/>
 
@@ -39,9 +39,6 @@
 <h2 align="center">⚙️ Tecnologias e Stacks</h2>
 
 <div align="center">
-
-<!-- Ícones (skillicons.dev) — 👉 EDITE: para adicionar mais, inclua o nome na lista i=
-     (ex.: git,github,vscode,nodejs). Lista completa: https://skillicons.dev -->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,mysql&theme=dark&perline=6" alt="Ícones das tecnologias: HTML5, CSS3, JavaScript, TypeScript, Python e MySQL" />
 </a>
@@ -161,7 +158,6 @@
 <a href="mailto:isaacmaiolo00@gmail.com"><img src="https://img.shields.io/badge/E--mail-0B1026?style=for-the-badge&logo=gmail&logoColor=FFC21A" alt="E-mail" /></a>
 <a href="https://github.com/immaiolo"><img src="https://img.shields.io/badge/GitHub-0B1026?style=for-the-badge&logo=github&logoColor=FFC21A" alt="GitHub" /></a>
 <a href="https://www.instagram.com/01_isaacmaiolo"><img src="https://img.shields.io/badge/Instagram-0B1026?style=for-the-badge&logo=instagram&logoColor=FFC21A" alt="Instagram" /></a>
--->
 
 <br/><br/>
 
