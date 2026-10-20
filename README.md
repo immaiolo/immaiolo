@@ -11,7 +11,7 @@
 
 <a href="https://github.com/immaiolo?tab=followers"><img src="https://img.shields.io/github/followers/immaiolo?label=Seguidores&style=for-the-badge&logo=github&logoColor=FFC21A&labelColor=0B1026&color=FFC21A" alt="Seguidores no GitHub" /></a>
 <a href="https://github.com/immaiolo?tab=repositories"><img src="https://img.shields.io/github/stars/immaiolo?affiliations=OWNER&label=Estrelas&style=for-the-badge&logo=github&logoColor=FFC21A&labelColor=0B1026&color=FFC21A" alt="Estrelas recebidas" /></a>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO.SEU_USUARIO&left_color=0B1026&right_color=FFC21A&left_text=Visitas" alt="Contador de visitas" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=immaiolo.imaiolo&left_color=0B1026&right_color=FFC21A&left_text=Visitas" alt="Contador de visitas" />
 
 <br/><br/>
 
@@ -76,7 +76,7 @@
       <p>
         <img src="https://img.shields.io/badge/Python-0B1026?style=flat-square&logo=python&logoColor=FFC21A" alt="Python" />
       </p>
-      <a href="https://github.com/immaiolo/python-logica"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-FFC21A?style=for-the-badge&logo=github&logoColor=0B1026" alt="Ver repositório" /></a>
+      <a href="https://github.com/immaiolo/logica-python"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-FFC21A?style=for-the-badge&logo=github&logoColor=0B1026" alt="Ver repositório" /></a>
     </td>
   </tr>
   <tr>
@@ -98,7 +98,7 @@
         <img src="https://img.shields.io/badge/CSS3-0B1026?style=flat-square&logo=css3&logoColor=FFC21A" alt="CSS3" />
         <img src="https://img.shields.io/badge/JavaScript-0B1026?style=flat-square&logo=javascript&logoColor=FFC21A" alt="JavaScript" />
       </p>
-      <a href="https://github.com/immaiolo/kaizen-apresentacao"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-FFC21A?style=for-the-badge&logo=github&logoColor=0B1026" alt="Ver repositório" /></a>
+      <a href="https://github.com/immaiolo/kaizen"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-FFC21A?style=for-the-badge&logo=github&logoColor=0B1026" alt="Ver repositório" /></a>
     </td>
   </tr>
 </table>
