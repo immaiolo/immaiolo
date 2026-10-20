@@ -130,10 +130,6 @@
 
 <br/><br/>
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=immaiolo&bg_color=0B1026&color=FFC21A&line=FFC21A&point=FFFFFF&area=true&area_color=FFC21A&title_color=FFC21A&hide_border=true" alt="Gráfico de contribuições" width="100%" />
-</a>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFC21A&height=2" width="100%" alt="" />
