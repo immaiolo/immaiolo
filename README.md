@@ -90,16 +90,6 @@
       </p>
       <a href="https://github.com/immaiolo/pose-memory"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-FFC21A?style=for-the-badge&logo=github&logoColor=0B1026" alt="Ver repositório" /></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🏆 Site do TCC — KAIZEN</h3>
-      <p>Site institucional de uma página para apresentar o TCC do meu grupo, com identidade visual própria.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-0B1026?style=flat-square&logo=html5&logoColor=FFC21A" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-0B1026?style=flat-square&logo=css3&logoColor=FFC21A" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-0B1026?style=flat-square&logo=javascript&logoColor=FFC21A" alt="JavaScript" />
-      </p>
-      <a href="https://github.com/immaiolo/kaizen"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-FFC21A?style=for-the-badge&logo=github&logoColor=0B1026" alt="Ver repositório" /></a>
-    </td>
   </tr>
 </table>
 
